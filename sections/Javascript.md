@@ -1,4 +1,4 @@
-[Back to Home](README)
+[Back to Home](../README.md)
 # Javascript
 
 As described in the general rules, consistency will always win over style. In the end it does not matter which style you are using, you just have to be consistent in order for your code to be more readable by others, because they will get used to it.

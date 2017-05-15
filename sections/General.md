@@ -1,4 +1,4 @@
-[Back to Home](README)
+[Back to Home](../README.md)
 # GENERAL RULES
 
 While many of best practices and rules are bound to a certain technology or language, there are some that apply pretty much everywhere.
