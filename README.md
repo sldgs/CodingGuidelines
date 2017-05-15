@@ -13,8 +13,8 @@ There is one simple (but golden) rule to follow:
 ## Table of contents
 
 1. [General rules](sections/General.md)
-1. [Collaboration](section/Collaboration.md)
+1. [Collaboration](sections/Collaboration.md)
 1. [HTML](sections/HTML.md)
 1. [CSS](sections/CSS.md)
 1. [Javascript](sections/Javascript.md)
-1. [PHP](section/PHP.md)
+1. [PHP](sections/PHP.md)
