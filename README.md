@@ -18,3 +18,4 @@ There is one simple (but golden) rule to follow:
 1. [CSS](sections/CSS.md)
 1. [Javascript](sections/Javascript.md)
 1. [PHP](sections/PHP.md)
+1. [Wordpress](sections/Wordpress.md)
