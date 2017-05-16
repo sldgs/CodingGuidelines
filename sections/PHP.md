@@ -203,11 +203,11 @@ class Car extends Vehicle implements VehicleInterface
    public static function getColorCodeStatic($color)
    {
        // Color is empty
-       if ( empty($color) )
+       if (empty($color))
            throw new Exception('Undefined color');
 
        // Color is not in the array of acceptable colors
-       if ( !isset(self::$basicColors[$color]) )
+       if (!isset(self::$basicColors[$color]))
            throw new Exception('Unrecognizable color');
 
        return self::$basicColors[$color];
@@ -236,7 +236,7 @@ class Car extends Vehicle implements VehicleInterface
                break;
        }
 
-       if ( $count == -1 )
+       if ($count == -1)
            throw new Exception('Unrecognizable car type');
 
        return $count;
