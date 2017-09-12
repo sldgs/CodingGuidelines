@@ -18,7 +18,7 @@ Keep in mind that some rules, especially for commenting, are not “written in t
 ## Class naming and code structure
 
 1. Class names are *PascalCase*
-1. Method names and property names are *camelCase*
+1. Method names, property names and variable names are *camelCase*
 1. Constants are upper *SNAKE_CASE*
 1. PHP keywords and constants (`true`, `false`, `null`) are in *lower case*
 1. Method names contain *verb*
